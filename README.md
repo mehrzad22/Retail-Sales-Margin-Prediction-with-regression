@@ -5,4 +5,4 @@ Methodology
 2-Feature Selection
 3-Model Building and Evaluation metric.
 4-Model Optimization
-5-Model Selection:
+5-Model Selection
